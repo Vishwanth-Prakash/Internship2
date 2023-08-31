@@ -6,9 +6,39 @@
       "location":"Alpha Block - 1st floor"
     },
     {
+      "class":"1st",
+      "division":"B",
+      "location":"Alpha Block - 1st floor"
+    },
+    {
+      "class":"1st",
+      "division":"C",
+      "location":"Alpha Block - 1st floor"
+    },
+    {
+      "class":"2nd",
+      "division":"A",
+      "location":"Sigma Block - 3rd floor"
+    },
+    {
       "class":"2nd",
       "division":"B",
       "location":"Sigma Block - 3rd floor"
+    },
+    {
+      "class":"2nd",
+      "division":"C",
+      "location":"Sigma Block - 3rd floor"
+    },
+    {
+      "class":"3rd",
+      "division":"A",
+      "location":"Delta Block - 7th floor"
+    },
+    {
+      "class":"3rd",
+      "division":"B",
+      "location":"Delta Block - 7th floor"
     },
     {
       "class":"3rd",
@@ -16,14 +46,34 @@
       "location":"Delta Block - 7th floor"
     },
     {
-      "class":"12th",
+      "class":"4th",
       "division":"A",
-      "location":"Admin Block - 3rd floor"
+      "location":"Alpha Block - 7th floor"
     },
     {
-      "class":"10th",
-      "division":"D",
+      "class":"4th",
+      "division":"B",
+      "location":"Alpha Block - 7th floor"
+    },
+    {
+      "class":"4th",
+      "division":"C",
+      "location":"Alpha Block - 7th floor"
+    },
+    {
+      "class":"5th",
+      "division":"A",
+      "location":"Delta Block - 3rd floor"
+    },
+    {
+      "class":"5th",
+      "division":"B",
       "location":"Beta Block - 4th floor"
+    },
+     {
+      "class":"5th",
+      "division":"C",
+      "location":"Gamma Block - 4th floor"
     }
   ]
 }
