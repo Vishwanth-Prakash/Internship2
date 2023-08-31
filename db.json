@@ -1,0 +1,29 @@
+{
+  "Classes":[
+    {
+      "class":"1st",
+      "division":"A",
+      "location":"Alpha Block - 1st floor"
+    },
+    {
+      "class":"2nd",
+      "division":"B",
+      "location":"Sigma Block - 3rd floor"
+    },
+    {
+      "class":"3rd",
+      "division":"C",
+      "location":"Delta Block - 7th floor"
+    },
+    {
+      "class":"12th",
+      "division":"A",
+      "location":"Admin Block - 3rd floor"
+    },
+    {
+      "class":"10th",
+      "division":"D",
+      "location":"Beta Block - 4th floor"
+    }
+  ]
+}
