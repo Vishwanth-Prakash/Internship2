@@ -1,6 +1,7 @@
 {
 	"Timetable": [{
-		"MaHUtUCx5S8zNoCCKqjo": [{
+		"id":"MaHUtUCx5S8zNoCCKqjo",
+		"Timetable":[{
 				"MON": [{
 						"title": "Math",
 						"startTime": "09:00",
